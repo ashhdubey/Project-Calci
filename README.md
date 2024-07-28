@@ -15,8 +15,7 @@ About
 
 
 ## Screenshots
-
-![Calci](https://github.com/user-attachments/assets/d938a974-326e-4e42-b9e4-31ee45dfca12)
+![Calci](https://github.com/user-attachments/assets/560ae7f4-7643-4010-9930-e5f10529a190)
 
 ## Feedback
 

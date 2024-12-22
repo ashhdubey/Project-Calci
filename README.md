@@ -12,6 +12,7 @@ About
 - Calci Display for previews
 - Main features is *,+,-,/,.
 - For windows 7,8,8.1,10,11 platform's
+- currently not for other Operating system 
 
 
 ## Screenshots
@@ -21,4 +22,5 @@ About
 
 If you have any feedback, please reach out to us at 
 - ashishdubey.work@gmail.com
+
 
